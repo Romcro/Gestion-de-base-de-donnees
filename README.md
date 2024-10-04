@@ -24,3 +24,12 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants :
 - **Python** doit être installé sur votre machine, avec les bibliothèques nécessaires pour gérer les connexions SQLite et manipuler les données.
 
 
+### Ce que ce README contient :
+1. **Contexte et objectifs du projet** pour clarifier la mission.
+2. **Prérequis techniques** (SQL, SQLite, Python, etc.).
+3. **Instructions d'installation** et de mise en place.
+4. **Structure de la base de données** (tables et colonnes) pour comprendre l'organisation des données.
+5. **Requêtes SQL importantes** pour extraire les informations demandées.
+
+Cela fournit toutes les informations nécessaires pour démarrer et travailler sur ce projet.
+
